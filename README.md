@@ -5,7 +5,7 @@
 cd nodejs
 sh install.sh
 ```
-### 
+## install LINE bot sdk 
 ```
 git clone https://github.com/line/line-bot-sdk-nodejs.git
 cd line-bot-sdk-nodejs/examples/echo-bot
