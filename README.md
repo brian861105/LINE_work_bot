@@ -1,5 +1,11 @@
-## 先安裝node.js
+## install node.js
 
+### for linux
+```
+cd nodejs
+sh install.sh
+```
+### 
 ```
 git clone https://github.com/line/line-bot-sdk-nodejs.git
 cd line-bot-sdk-nodejs/examples/echo-bot
